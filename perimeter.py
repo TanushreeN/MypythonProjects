@@ -1,6 +1,6 @@
 Shape = input("Enter the shape: ").lower()
 class Area_Perimeter:
-
+    # to find area and perimeter of circle
     def circle(self):
         radius = int(input("Enter the Radius: "))
         area = 3.14 * radius * radius
