@@ -1,3 +1,4 @@
+# definition of function 
 def Simple_interest(p, t, r):
 
 # To calculate Simple interest
