@@ -1,3 +1,4 @@
+#calculating the squares of input number
 a = int(input("Enter the number : "))
 b = int(input("Enter the Exponent : "))
 c = a ** b
