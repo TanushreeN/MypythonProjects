@@ -1,4 +1,4 @@
-#Calculating Area of Rectangle
+# Calculating Area of Rectangle
 
 l = int(input("Enter the length : "))
 b = int(input("Enter the breath : "))
