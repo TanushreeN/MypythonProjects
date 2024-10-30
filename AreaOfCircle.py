@@ -1,4 +1,4 @@
-# Calculating the Area of circle
+# Calculating the Area of circle.
 
 r = int(input("Enter the Radius : "))
 area = 3.14 * r * r
