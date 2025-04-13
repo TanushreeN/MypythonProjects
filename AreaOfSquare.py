@@ -1,5 +1,6 @@
 #Calculating area of square
 
+
 s = int(input("Enter the side measurement: "))
 
 area = s * s
